@@ -1,0 +1,34 @@
+body {
+    background-color: rgba(8, 221, 8, 0.644);
+    font-family: 'Verdana';
+    font-size: 17px;
+}
+
+h1 {
+    font-family: 'Cambria';
+    padding: 40px;
+    text-align: center;
+    font-size: 45px;
+    text-shadow: 3px 3px 6px rgb(49, 47, 58);
+    
+}
+
+section {
+    background-color:rgb(95, 112, 207);
+    margin-left: 350px;
+    margin-right: 350px;
+    padding: 40px;
+    border-radius: 7px;
+    box-shadow: 7px 7px 9px black;
+}
+
+#tab {
+    width: 150px;
+}
+
+footer {
+    text-align: center;
+    padding: 50px;
+    font-size: 15px;
+    text-decoration: underline;
+}
